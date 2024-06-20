@@ -15,8 +15,8 @@ email : jomediaportfolio@gmail.com
 
 ### CAE
 
-![Solidworks CAE](https://img.shields.io/badge/Solidworks CAE-0076A8?style=flat-square&logo=solidworks&logoColor=white)
-![AutoDesk CFD](https://img.shields.io/badge/AutoDesk CFD-0076A8?style=flat-square&logo=autodesk&logoColor=white)
+![Solidworks CAE](https://img.shields.io/badge/Solidworks_CAE-0076A8?style=flat-square&logo=solidworks&logoColor=white)
+![AutoDesk CFD](https://img.shields.io/badge/AutoDesk_CFD-0076A8?style=flat-square&logo=autodesk&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-0076A8?style=flat-square&logo=ansys&logoColor=white)
 
 ### Design

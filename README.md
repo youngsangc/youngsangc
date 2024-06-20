@@ -13,6 +13,12 @@ email : jomediaportfolio@gmail.com
 ![Morai](https://img.shields.io/badge/Morai-0088CC?style=flat-square&logo=&logoColor=white) <!-- Morai 로고가 없어 대체 색상 사용 -->
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
+### CAE
+
+![Solidworks CAE](https://img.shields.io/badge/Solidworks CAE-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![AutoDesk CFD](https://img.shields.io/badge/AutoDesk CFD-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
 ### Design
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FFA500?style=flat-square&logo=solidworks&logoColor=white)
 

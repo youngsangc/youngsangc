@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-email : jomediaportfolio@gmail.com
+email : jomediaslack@gmail.com
 
 ### Programming Language
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)

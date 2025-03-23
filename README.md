@@ -23,6 +23,7 @@ email : jomediaslack@gmail.com
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FFA500?style=flat-square&logo=solidworks&logoColor=white)
 
 
+![NX](https://img.shields.io/badge/NX-FFA500?style=flat-square&logo=NX&logoColor=white)
 
 <!--
 **youngsangc/youngsangc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
